@@ -5,10 +5,10 @@ And I hope to pursure front-end development and UX/web design!
 - I am currently pursuing my [BS Computer Science](https://engineering.ucsc.edu/) Degree at [University of California, Santa Cruz](https://www.ucsc.edu/).
   - UCSC GitLab: [git.ucsc.edu/nlahan](https://git.ucsc.edu/nlahan)
 - I have recently spent a year studying abroad in the [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute) at [University of the Arts London](https://www.arts.ac.uk/) in England.
-  - UAL GitLab: [git.arts.ac.uk/23043904](https://git.arts.ac.uk/23043904)
+  - UAL CCI GitLab: [git.arts.ac.uk/23043904](https://git.arts.ac.uk/23043904)
 
 ## 📫 More of Me
-- **My portfolio website:** [bit.ly/NoaLahan](bit.ly/NoaLahan)
+- **My portfolio website:** [bit.ly/NoaLahan](https://bit.ly/NoaLahan)
 - [LinkedIn](https://www.linkedin.com/in/noa-lahan)
 - [Youtube](https://www.youtube.com/@noalahan) 
 - Personal Email: [noa.lahan@gmail.com](mailto:noa.lahan@gmail.com)
