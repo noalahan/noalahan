@@ -1,17 +1,18 @@
 # Hello, I'm Noa! 👋
-I am currently pursuing my BS Computer Science Degree in University of California, Santa Cruz. I have also recently spent a year studying abroad in the Creative Computing Institute 
-at the Univeristy of the Arts London in England. I am currently applying to front-end development positions since I would love to pursue UX/web design.
+And I hope to pursure front-end development and UX/web design!
 
-## 📫 How to Reach Me
+## 🌱 Education
+- I am currently pursuing my [BS Computer Science](https://engineering.ucsc.edu/) Degree at [University of California, Santa Cruz](https://www.ucsc.edu/).
+  - UCSC GitLab: [git.ucsc.edu/nlahan](https://git.ucsc.edu/nlahan)
+- I have recently spent a year studying abroad in the [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute) at [University of the Arts London](https://www.arts.ac.uk/) in England.
+  - UAL GitLab: [git.arts.ac.uk/23043904](https://git.arts.ac.uk/23043904)
+
+## 📫 More of Me
+- **My portfolio website:** [bit.ly/NoaLahan](bit.ly/NoaLahan)
 - [LinkedIn](https://www.linkedin.com/in/noa-lahan)
-- Email: [noa.lahan@gmail.com](mailto:noa.lahan@gmail.com)
-
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- [Youtube](https://www.youtube.com/@noalahan) 
+- Personal Email: [noa.lahan@gmail.com](mailto:noa.lahan@gmail.com)
+- UCSC Email: [nlahan@ucsc.edu](mailto:nlahan@ucsc.edu)
 
 <!---
 noalahan/noalahan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
