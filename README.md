@@ -1,0 +1,19 @@
+# Hello, I'm Noa! 👋
+I am currently pursuing my BS Computer Science Degree in University of California, Santa Cruz. I have also recently spent a year studying abroad in the Creative Computing Institute 
+at the Univeristy of the Arts London in England. I am currently applying to front-end development positions since I would love to pursue UX/web design.
+
+## 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/noa-lahan)
+- Email: [noa.lahan@gmail.com](mailto:noa.lahan@gmail.com)
+
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+noalahan/noalahan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
