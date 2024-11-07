@@ -13,6 +13,7 @@ And I hope to pursure front-end development and UX/web design!
 - [Youtube](https://www.youtube.com/@noalahan) 
 - Personal Email: [noa.lahan@gmail.com](mailto:noa.lahan@gmail.com)
 - UCSC Email: [nlahan@ucsc.edu](mailto:nlahan@ucsc.edu)
+- UAL Email: n.lahan0720231@arts.ac.uk (deactivated)
 
 <!---
 noalahan/noalahan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
